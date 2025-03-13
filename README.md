@@ -79,14 +79,8 @@ Similary for user login.
 ![image](https://user-images.githubusercontent.com/69163882/150555270-333a42da-3f9a-42ab-8529-08a289e2d565.png)
 
 
-# User Profile
-
-![image](https://user-images.githubusercontent.com/69163882/150555625-91efd57d-d464-4b69-9e6d-474a01ae4581.png)
 
 
-# Profile Update
-
-![image](https://user-images.githubusercontent.com/69163882/150555495-32eb419c-28ef-41b1-83c6-7ab1041145ac.png)
 
 
 # ADMIN SIDE
