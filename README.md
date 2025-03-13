@@ -90,9 +90,7 @@ Similary for user login.
 ![image](https://user-images.githubusercontent.com/69163882/150556005-3cae8ce6-d9ae-44c5-95de-6ded4d16bc08.png)
 
 
-# Customer Overview
 
-![image](https://user-images.githubusercontent.com/69163882/150556176-23c32c9f-984c-4569-bd31-33e5d7777578.png)
 
 Similarly can view both overall transactions and individual customer transactions
 
